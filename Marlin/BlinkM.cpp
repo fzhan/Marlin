@@ -1,4 +1,5 @@
 /*
+  Just another test from fzhan
   BlinkM.cpp - Library for controlling a BlinkM over i2c
   Created by Tim Koster, August 21 2013.
 */
